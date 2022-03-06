@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">listyy</string>
+    <string-array name="country">
+        <item>Bhaarat</item>
+        <item>Paki</item>
+        <item>Kazak</item>
+        <item>Italy</item>
+        <item>Mars</item>
+    </string-array>
 </resources>
